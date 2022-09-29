@@ -1,5 +1,5 @@
 """
-wait for db avalible 
+wait for db avalible
 """
 import time
 
